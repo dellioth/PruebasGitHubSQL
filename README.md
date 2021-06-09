@@ -8,6 +8,4 @@
 Prueba para branches
 
 branch updates
-
-
 Se crea línea para branch master
